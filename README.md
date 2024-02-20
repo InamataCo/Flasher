@@ -1,3 +1,6 @@
+# MOVED TO [InamataIO/Flasher](https://github.com/InamataIO/Flasher)
+
+
 ![Apache2.0](https://img.shields.io/github/license/InamataIO/Flasher)
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/InamataIO/Flasher)
 ![Linux Support](https://img.shields.io/badge/OS-Linux-dark_green)
